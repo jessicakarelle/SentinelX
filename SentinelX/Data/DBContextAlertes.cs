@@ -1,6 +1,6 @@
 ﻿namespace SentinelX.Data
 {
-    public class DBContextAlertes
+    public class DBContextAlertes : DBContext
     {
     }
 }

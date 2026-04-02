@@ -1,6 +1,6 @@
 ﻿namespace SentinelX.Controllers
 {
-    public class ControleurTravailleurs
+    public class ControleurTravailleurs : Controleur
     {
     }
 }

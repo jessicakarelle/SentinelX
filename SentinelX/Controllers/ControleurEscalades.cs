@@ -1,6 +1,6 @@
 ﻿namespace SentinelX.Controllers
 {
-    public class ControleurEscalades
+    public class ControleurEscalades : Controleur
     {
     }
 }

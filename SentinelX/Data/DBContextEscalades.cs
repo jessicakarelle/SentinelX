@@ -1,6 +1,6 @@
 ﻿namespace SentinelX.Data
 {
-    public class DBContextEscalades
+    public class DBContextEscalades : DBContext
     {
     }
 }
